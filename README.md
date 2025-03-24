@@ -7,6 +7,7 @@ Responsive (mobil ve masaüstü uyumlu)
 Özel grup sohbetleri için optimize edilmiş
 Emoji kütüphanesi ile kişisel ifadeler ekleyebilme
 Bootstrap 5 ile modern ve şık tasarım
+
 ![arkadas-chat](https://github.com/user-attachments/assets/3a218809-41b4-46bc-8ccd-3a0ce6a73ffa)
 
 
